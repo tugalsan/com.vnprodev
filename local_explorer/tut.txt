@@ -1,0 +1,12 @@
+EKLENTİ YÜKLEME:
+https://microsoftedge.microsoft.com/addons/detail/local-explorer-open-loca/kfckbgalciooajgkjggkcjnihamjnghh?hl=tr-TR
+https://chromewebstore.google.com/detail/local-explorer-open-file/eokekhgpaakbkfkmjjcbffibkencdfkl?hl=tr
+
+EKLENTİ AYAR:
+Dosya URL'lerine izin ver
+
+EKLENTİ SÜRÜCÜ:
+LocalExplorer-Setup.exe
+
+DO:
+Restart edge/Chrome
